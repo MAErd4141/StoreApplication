@@ -1,0 +1,8 @@
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<div>
+    <h2>@Model.ProductName</h2>
+    <p>@Model.Price.ToString("c")</p>
+    <a class="btn btn-primary" asp-controller="Product" asp-action="Get" asp-route-id="@Model.ProductId">Get Details</a>
+    <hr />
+</div>

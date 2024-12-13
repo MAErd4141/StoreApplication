@@ -1,0 +1,14 @@
+@model Entities.Models.Product
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<div class="col-sm-12 col-md-4  my-2">
+<div class="card" style="width: 18rem;">
+  <img src="/images/default.jpg" class="card-img-top" alt="...">
+  <div class="card-body"> 
+    <h5 class="card-title">@Model.ProductName</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a asp-action="Get" asp-route-id="@Model.ProductId" class="btn btn-primary">Go somewhere</a>
+    <i class="fa-solid fa-arrow-right"></i>
+  </div>
+</div>
+</div>
