@@ -9,8 +9,36 @@
       "PackagePath": "staticwebassets\\html\\Error.html"
     },
     {
+      "Id": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\beloved.jpg",
+      "PackagePath": "staticwebassets\\images\\beloved.jpg"
+    },
+    {
+      "Id": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\deck.jpg",
+      "PackagePath": "staticwebassets\\images\\deck.jpg"
+    },
+    {
       "Id": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\default.jpg",
       "PackagePath": "staticwebassets\\images\\default.jpg"
+    },
+    {
+      "Id": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\hamlet.jpg",
+      "PackagePath": "staticwebassets\\images\\hamlet.jpg"
+    },
+    {
+      "Id": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\history.jpg",
+      "PackagePath": "staticwebassets\\images\\history.jpg"
+    },
+    {
+      "Id": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\keyboard.jpg",
+      "PackagePath": "staticwebassets\\images\\keyboard.jpg"
+    },
+    {
+      "Id": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\monitor.jpg",
+      "PackagePath": "staticwebassets\\images\\monitor.jpg"
+    },
+    {
+      "Id": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\mouse.jpg",
+      "PackagePath": "staticwebassets\\images\\mouse.jpg"
     },
     {
       "Id": "C:\\MVC\\Store\\StoreApp\\wwwroot\\js\\site.js",

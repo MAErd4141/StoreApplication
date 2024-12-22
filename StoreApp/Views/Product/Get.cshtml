@@ -1,19 +1,39 @@
+@using StoreApp.Infrastructe.Extensions
 @model Entities.Models.Product
 @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 
+<div class="row">
+    <div class="col-md-12">
+        <div class="text-center">
+            <h6 class="display-6">
+                @Model.ProductName
+            </h6>
+            <img class="img-fluid shadow rounded-3" src="@Model?.ImageUrl" alt="@Model.ProductName" />
+            <p class="lead">@Model.Price.ToString("c")</p>
+        </div>    
+    </div>
+</div>
 
 <div>
-    <h3>@Model.ProductName</h3>
     <p>@Model.Price.ToString("C")</p>
 
-    <div class="btn-group">
-        <a class="btn btn-primary" asp-controller="Home" asp-action="Index">
-            <i class="fa-solid fa-house"></i>
-            Home
+    <div class="text-center">
+        <div class="btn-group">
+            <a class="btn btn-outline-primary me-2" asp-controller="Home" asp-action="Index">
+                <i class="fa-solid fa-house"></i>
+                Home
             </a>
-        <a class="btn btn-outline-primary" asp-controller="Product" asp-action="Index">
-            <i class="fa-solid fa-list"></i>
-            Products
+            <form id="@Model.ProductId" asp-page="/cart" method="post" class="d-inline">
+                <input type="hidden" asp-for="ProductId" />
+                <input type="hidden" name="returnUrl" value="@ViewContext.HttpContext.Request.PathAndQuery()" />
+                <button type="submit" class="btn btn-outline-primary me-2">
+                    <i class="fa fa-cart-plus"></i>
+                </button>
+            </form>
+            <a class="btn btn-outline-primary" asp-controller="Product" asp-action="Index">
+                <i class="fa-solid fa-list"></i>
+                Products
             </a>
+        </div>
     </div>
 </div>

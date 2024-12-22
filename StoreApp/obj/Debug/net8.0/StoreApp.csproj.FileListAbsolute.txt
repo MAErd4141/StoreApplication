@@ -8,6 +8,8 @@ C:\MVC\Store\StoreApp\bin\Debug\net8.0\StoreApp.deps.json
 C:\MVC\Store\StoreApp\bin\Debug\net8.0\StoreApp.runtimeconfig.json
 C:\MVC\Store\StoreApp\bin\Debug\net8.0\StoreApp.dll
 C:\MVC\Store\StoreApp\bin\Debug\net8.0\StoreApp.pdb
+C:\MVC\Store\StoreApp\bin\Debug\net8.0\AutoMapper.dll
+C:\MVC\Store\StoreApp\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\MVC\Store\StoreApp\bin\Debug\net8.0\Azure.Core.dll
 C:\MVC\Store\StoreApp\bin\Debug\net8.0\Azure.Identity.dll
 C:\MVC\Store\StoreApp\bin\Debug\net8.0\Humanizer.dll
@@ -172,8 +174,10 @@ C:\MVC\Store\StoreApp\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.E
 C:\MVC\Store\StoreApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\MVC\Store\StoreApp\bin\Debug\net8.0\Entities.dll
 C:\MVC\Store\StoreApp\bin\Debug\net8.0\Repositories.dll
+C:\MVC\Store\StoreApp\bin\Debug\net8.0\Services.dll
 C:\MVC\Store\StoreApp\bin\Debug\net8.0\Entities.pdb
 C:\MVC\Store\StoreApp\bin\Debug\net8.0\Repositories.pdb
+C:\MVC\Store\StoreApp\bin\Debug\net8.0\Services.pdb
 C:\MVC\Store\StoreApp\obj\Debug\net8.0\StoreApp.csproj.AssemblyReference.cache
 C:\MVC\Store\StoreApp\obj\Debug\net8.0\StoreApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\MVC\Store\StoreApp\obj\Debug\net8.0\StoreApp.AssemblyInfoInputs.cache
@@ -182,6 +186,7 @@ C:\MVC\Store\StoreApp\obj\Debug\net8.0\StoreApp.csproj.CoreCompileInputs.cache
 C:\MVC\Store\StoreApp\obj\Debug\net8.0\StoreApp.MvcApplicationPartsAssemblyInfo.cache
 C:\MVC\Store\StoreApp\obj\Debug\net8.0\StoreApp.RazorAssemblyInfo.cache
 C:\MVC\Store\StoreApp\obj\Debug\net8.0\StoreApp.RazorAssemblyInfo.cs
+C:\MVC\Store\StoreApp\obj\Debug\net8.0\StoreApp.sourcelink.json
 C:\MVC\Store\StoreApp\obj\Debug\net8.0\scopedcss\bundle\StoreApp.styles.css
 C:\MVC\Store\StoreApp\obj\Debug\net8.0\staticwebassets.build.json
 C:\MVC\Store\StoreApp\obj\Debug\net8.0\staticwebassets.development.json
@@ -198,5 +203,3 @@ C:\MVC\Store\StoreApp\obj\Debug\net8.0\refint\StoreApp.dll
 C:\MVC\Store\StoreApp\obj\Debug\net8.0\StoreApp.pdb
 C:\MVC\Store\StoreApp\obj\Debug\net8.0\StoreApp.genruntimeconfig.cache
 C:\MVC\Store\StoreApp\obj\Debug\net8.0\ref\StoreApp.dll
-C:\MVC\Store\StoreApp\bin\Debug\net8.0\Services.dll
-C:\MVC\Store\StoreApp\bin\Debug\net8.0\Services.pdb
