@@ -203,3 +203,5 @@ C:\MVC\Store\StoreApp\obj\Debug\net8.0\refint\StoreApp.dll
 C:\MVC\Store\StoreApp\obj\Debug\net8.0\StoreApp.pdb
 C:\MVC\Store\StoreApp\obj\Debug\net8.0\StoreApp.genruntimeconfig.cache
 C:\MVC\Store\StoreApp\obj\Debug\net8.0\ref\StoreApp.dll
+C:\MVC\Store\StoreApp\bin\Debug\net8.0\MySqlConnector.dll
+C:\MVC\Store\StoreApp\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll

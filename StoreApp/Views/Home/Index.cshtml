@@ -1,13 +1,24 @@
-@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model IEnumerable<Entities.Models.Product> 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1>Hello Store App</h1>
-</body>
-</html>
+<div class="container mt-5">
+    <h1 class="text-center mb-4">Welcome to StoreApp!</h1>
+    <p class="text-center">Discover the best products and add them to your cart easily.</p>
+    
+    <hr>
+
+    <h2 class="mb-3">Products Summary</h2>
+    <div class="row">
+        @foreach (var product in Model)
+        {
+            <div class="col-md-3 mb-4">
+                <div class="card">
+                    <img src="@product.ImageUrl" class="card-img-top" alt="@product.ProductName" style="height: 150px; object-fit: cover;">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">@product.ProductName</h5>
+                        <p class="card-text text-muted">$@product.Price</p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

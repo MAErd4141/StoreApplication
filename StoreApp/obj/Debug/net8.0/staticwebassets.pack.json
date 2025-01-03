@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets\\images\\history.jpg"
     },
     {
+      "Id": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\hpmouse.jpg",
+      "PackagePath": "staticwebassets\\images\\hpmouse.jpg"
+    },
+    {
       "Id": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\keyboard.jpg",
       "PackagePath": "staticwebassets\\images\\keyboard.jpg"
     },
@@ -39,6 +43,18 @@
     {
       "Id": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\mouse.jpg",
       "PackagePath": "staticwebassets\\images\\mouse.jpg"
+    },
+    {
+      "Id": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\nutuk.jpg",
+      "PackagePath": "staticwebassets\\images\\nutuk.jpg"
+    },
+    {
+      "Id": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\speaker.jpg",
+      "PackagePath": "staticwebassets\\images\\speaker.jpg"
+    },
+    {
+      "Id": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\xppen.jpeg",
+      "PackagePath": "staticwebassets\\images\\xppen.jpeg"
     },
     {
       "Id": "C:\\MVC\\Store\\StoreApp\\wwwroot\\js\\site.js",

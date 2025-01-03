@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3mv4Q0KYLWGZJLYH9mVWafaAOioFqJfWIVIdELFSVSQ=",
+  "Hash": "6DezgSEHoGGCixN3jtNWoPxtKN9KODc1BITHjyR3zHE=",
   "Source": "StoreApp",
   "BasePath": "_content/StoreApp",
   "Mode": "Default",
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dkc5qo70wh",
-      "Integrity": "IwclKkStzE7ljb8imsWHewbLs+m7NCBcchVM4RBQgQ0=",
+      "Fingerprint": "kvkpcemnym",
+      "Integrity": "8NkX0QU0zNYL5skne1NO0SutncXg8+fdk/tgnWXcYsk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\deck.jpg"
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "rbnl28e8t3",
-      "Integrity": "V6u1Fk7OBjUkfJAtXTFV+S6Vky9/WyiT0XtkBP7/LQY=",
+      "Fingerprint": "y57veh6x52",
+      "Integrity": "Boh/qN7AgK4hon+T4SMYfSE0EpSWhEriGz7OvEoAXeo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\hamlet.jpg"
@@ -164,6 +164,27 @@
       "OriginalItemSpec": "wwwroot\\images\\history.jpg"
     },
     {
+      "Identity": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\hpmouse.jpg",
+      "SourceId": "StoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MVC\\Store\\StoreApp\\wwwroot\\",
+      "BasePath": "_content/StoreApp",
+      "RelativePath": "images/hpmouse#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kgo4hb3vxh",
+      "Integrity": "1AH4MpH/O4xZK6+eG0jH6Bb+6iATog2kq/9ahV9kGU8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hpmouse.jpg"
+    },
+    {
       "Identity": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\keyboard.jpg",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
@@ -178,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jmll5d8ikj",
-      "Integrity": "RSYtFOh1diizSO9y9vM4TtDkBanp3d6wEtZvAADX3Mw=",
+      "Fingerprint": "q4irk86606",
+      "Integrity": "dtceurJMocSltYfpitv9TGmXgC2KN9gyMCYo8WvdXOQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\keyboard.jpg"
@@ -199,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4yoxfd9d6w",
-      "Integrity": "jI+5FIAwL3tDFRYMHIaDhGAO1Osj09qo/ckDbUECjW8=",
+      "Fingerprint": "g8wgiqpz3v",
+      "Integrity": "0K7nxMVm5JL2cjjL63W7dGHfKwlofXi23NAvu2cVC2k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\monitor.jpg"
@@ -220,11 +241,74 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3mhrrbg4l1",
-      "Integrity": "FWfg1YpAEcGrAaIONk9t6Rci8LvuPMilWt5cfFf0MAc=",
+      "Fingerprint": "v7w38x215g",
+      "Integrity": "21GAj60eEn0yWIn20nejlJtB8zYP5p/VkfLsUctqhI4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\mouse.jpg"
+    },
+    {
+      "Identity": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\nutuk.jpg",
+      "SourceId": "StoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MVC\\Store\\StoreApp\\wwwroot\\",
+      "BasePath": "_content/StoreApp",
+      "RelativePath": "images/nutuk#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nbyuyxjlh8",
+      "Integrity": "Q//GdvBB5wNqyyULwVC/e98/G66s8FNqBgiZkag+8lc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\nutuk.jpg"
+    },
+    {
+      "Identity": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\speaker.jpg",
+      "SourceId": "StoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MVC\\Store\\StoreApp\\wwwroot\\",
+      "BasePath": "_content/StoreApp",
+      "RelativePath": "images/speaker#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zowlzvzu52",
+      "Integrity": "Pdjdb5QreCv+43m2ebmfbaM71XEYbfKQgFRmgJ9Fs6k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\speaker.jpg"
+    },
+    {
+      "Identity": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\xppen.jpeg",
+      "SourceId": "StoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MVC\\Store\\StoreApp\\wwwroot\\",
+      "BasePath": "_content/StoreApp",
+      "RelativePath": "images/xppen#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g85qwrj43x",
+      "Integrity": "AMdLsBNkrbGnidSQBlHOhvwCsk0gpHDwWspA8bCUdd8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\xppen.jpeg"
     },
     {
       "Identity": "C:\\MVC\\Store\\StoreApp\\wwwroot\\js\\site.js",
@@ -4381,51 +4465,6 @@
       ]
     },
     {
-      "Route": "images/deck.dkc5qo70wh.jpg",
-      "AssetFile": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\deck.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8928"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"IwclKkStzE7ljb8imsWHewbLs+m7NCBcchVM4RBQgQ0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 15:36:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "dkc5qo70wh"
-        },
-        {
-          "Name": "label",
-          "Value": "images/deck.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-IwclKkStzE7ljb8imsWHewbLs+m7NCBcchVM4RBQgQ0="
-        }
-      ]
-    },
-    {
       "Route": "images/deck.jpg",
       "AssetFile": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\deck.jpg",
       "Selectors": [],
@@ -4436,7 +4475,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8928"
+          "Value": "40415"
         },
         {
           "Name": "Content-Type",
@@ -4444,11 +4483,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IwclKkStzE7ljb8imsWHewbLs+m7NCBcchVM4RBQgQ0=\""
+          "Value": "\"8NkX0QU0zNYL5skne1NO0SutncXg8+fdk/tgnWXcYsk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 15:36:07 GMT"
+          "Value": "Fri, 03 Jan 2025 22:02:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4458,7 +4497,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IwclKkStzE7ljb8imsWHewbLs+m7NCBcchVM4RBQgQ0="
+          "Value": "sha256-8NkX0QU0zNYL5skne1NO0SutncXg8+fdk/tgnWXcYsk="
+        }
+      ]
+    },
+    {
+      "Route": "images/deck.kvkpcemnym.jpg",
+      "AssetFile": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\deck.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8NkX0QU0zNYL5skne1NO0SutncXg8+fdk/tgnWXcYsk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:02:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kvkpcemnym"
+        },
+        {
+          "Name": "label",
+          "Value": "images/deck.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8NkX0QU0zNYL5skne1NO0SutncXg8+fdk/tgnWXcYsk="
         }
       ]
     },
@@ -4485,7 +4569,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 15:04:15 GMT"
+          "Value": "Fri, 03 Jan 2025 21:57:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4530,7 +4614,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 15:04:15 GMT"
+          "Value": "Fri, 03 Jan 2025 21:57:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4555,7 +4639,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5456"
+          "Value": "9964"
         },
         {
           "Name": "Content-Type",
@@ -4563,11 +4647,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"V6u1Fk7OBjUkfJAtXTFV+S6Vky9/WyiT0XtkBP7/LQY=\""
+          "Value": "\"Boh/qN7AgK4hon+T4SMYfSE0EpSWhEriGz7OvEoAXeo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 15:36:36 GMT"
+          "Value": "Fri, 03 Jan 2025 22:04:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4577,12 +4661,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-V6u1Fk7OBjUkfJAtXTFV+S6Vky9/WyiT0XtkBP7/LQY="
+          "Value": "sha256-Boh/qN7AgK4hon+T4SMYfSE0EpSWhEriGz7OvEoAXeo="
         }
       ]
     },
     {
-      "Route": "images/hamlet.rbnl28e8t3.jpg",
+      "Route": "images/hamlet.y57veh6x52.jpg",
       "AssetFile": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\hamlet.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4592,7 +4676,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5456"
+          "Value": "9964"
         },
         {
           "Name": "Content-Type",
@@ -4600,11 +4684,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"V6u1Fk7OBjUkfJAtXTFV+S6Vky9/WyiT0XtkBP7/LQY=\""
+          "Value": "\"Boh/qN7AgK4hon+T4SMYfSE0EpSWhEriGz7OvEoAXeo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 15:36:36 GMT"
+          "Value": "Fri, 03 Jan 2025 22:04:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4614,7 +4698,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rbnl28e8t3"
+          "Value": "y57veh6x52"
         },
         {
           "Name": "label",
@@ -4622,7 +4706,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-V6u1Fk7OBjUkfJAtXTFV+S6Vky9/WyiT0XtkBP7/LQY="
+          "Value": "sha256-Boh/qN7AgK4hon+T4SMYfSE0EpSWhEriGz7OvEoAXeo="
         }
       ]
     },
@@ -4649,7 +4733,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 15:36:22 GMT"
+          "Value": "Mon, 23 Dec 2024 11:29:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4694,7 +4778,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 15:36:22 GMT"
+          "Value": "Mon, 23 Dec 2024 11:29:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4709,8 +4793,8 @@
       ]
     },
     {
-      "Route": "images/keyboard.jmll5d8ikj.jpg",
-      "AssetFile": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\keyboard.jpg",
+      "Route": "images/hpmouse.jpg",
+      "AssetFile": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\hpmouse.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4719,7 +4803,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7694"
+          "Value": "25335"
         },
         {
           "Name": "Content-Type",
@@ -4727,11 +4811,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RSYtFOh1diizSO9y9vM4TtDkBanp3d6wEtZvAADX3Mw=\""
+          "Value": "\"1AH4MpH/O4xZK6+eG0jH6Bb+6iATog2kq/9ahV9kGU8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 15:05:19 GMT"
+          "Value": "Fri, 03 Jan 2025 22:07:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1AH4MpH/O4xZK6+eG0jH6Bb+6iATog2kq/9ahV9kGU8="
+        }
+      ]
+    },
+    {
+      "Route": "images/hpmouse.kgo4hb3vxh.jpg",
+      "AssetFile": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\hpmouse.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25335"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1AH4MpH/O4xZK6+eG0jH6Bb+6iATog2kq/9ahV9kGU8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:07:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4741,15 +4862,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jmll5d8ikj"
+          "Value": "kgo4hb3vxh"
         },
         {
           "Name": "label",
-          "Value": "images/keyboard.jpg"
+          "Value": "images/hpmouse.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-RSYtFOh1diizSO9y9vM4TtDkBanp3d6wEtZvAADX3Mw="
+          "Value": "sha256-1AH4MpH/O4xZK6+eG0jH6Bb+6iATog2kq/9ahV9kGU8="
         }
       ]
     },
@@ -4764,7 +4885,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7694"
+          "Value": "112708"
         },
         {
           "Name": "Content-Type",
@@ -4772,11 +4893,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RSYtFOh1diizSO9y9vM4TtDkBanp3d6wEtZvAADX3Mw=\""
+          "Value": "\"dtceurJMocSltYfpitv9TGmXgC2KN9gyMCYo8WvdXOQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 15:05:19 GMT"
+          "Value": "Fri, 03 Jan 2025 22:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4786,13 +4907,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RSYtFOh1diizSO9y9vM4TtDkBanp3d6wEtZvAADX3Mw="
+          "Value": "sha256-dtceurJMocSltYfpitv9TGmXgC2KN9gyMCYo8WvdXOQ="
         }
       ]
     },
     {
-      "Route": "images/monitor.4yoxfd9d6w.jpg",
-      "AssetFile": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\monitor.jpg",
+      "Route": "images/keyboard.q4irk86606.jpg",
+      "AssetFile": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\keyboard.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4801,7 +4922,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8511"
+          "Value": "112708"
         },
         {
           "Name": "Content-Type",
@@ -4809,11 +4930,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jI+5FIAwL3tDFRYMHIaDhGAO1Osj09qo/ckDbUECjW8=\""
+          "Value": "\"dtceurJMocSltYfpitv9TGmXgC2KN9gyMCYo8WvdXOQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 15:35:56 GMT"
+          "Value": "Fri, 03 Jan 2025 22:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4823,7 +4944,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4yoxfd9d6w"
+          "Value": "q4irk86606"
+        },
+        {
+          "Name": "label",
+          "Value": "images/keyboard.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dtceurJMocSltYfpitv9TGmXgC2KN9gyMCYo8WvdXOQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/monitor.g8wgiqpz3v.jpg",
+      "AssetFile": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\monitor.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14554"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0K7nxMVm5JL2cjjL63W7dGHfKwlofXi23NAvu2cVC2k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:01:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g8wgiqpz3v"
         },
         {
           "Name": "label",
@@ -4831,7 +4997,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jI+5FIAwL3tDFRYMHIaDhGAO1Osj09qo/ckDbUECjW8="
+          "Value": "sha256-0K7nxMVm5JL2cjjL63W7dGHfKwlofXi23NAvu2cVC2k="
         }
       ]
     },
@@ -4846,7 +5012,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8511"
+          "Value": "14554"
         },
         {
           "Name": "Content-Type",
@@ -4854,11 +5020,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jI+5FIAwL3tDFRYMHIaDhGAO1Osj09qo/ckDbUECjW8=\""
+          "Value": "\"0K7nxMVm5JL2cjjL63W7dGHfKwlofXi23NAvu2cVC2k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 15:35:56 GMT"
+          "Value": "Fri, 03 Jan 2025 22:01:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4868,52 +5034,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jI+5FIAwL3tDFRYMHIaDhGAO1Osj09qo/ckDbUECjW8="
-        }
-      ]
-    },
-    {
-      "Route": "images/mouse.3mhrrbg4l1.jpg",
-      "AssetFile": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\mouse.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5174"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FWfg1YpAEcGrAaIONk9t6Rci8LvuPMilWt5cfFf0MAc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 15:35:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3mhrrbg4l1"
-        },
-        {
-          "Name": "label",
-          "Value": "images/mouse.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-FWfg1YpAEcGrAaIONk9t6Rci8LvuPMilWt5cfFf0MAc="
+          "Value": "sha256-0K7nxMVm5JL2cjjL63W7dGHfKwlofXi23NAvu2cVC2k="
         }
       ]
     },
@@ -4928,7 +5049,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5174"
+          "Value": "4116"
         },
         {
           "Name": "Content-Type",
@@ -4936,11 +5057,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FWfg1YpAEcGrAaIONk9t6Rci8LvuPMilWt5cfFf0MAc=\""
+          "Value": "\"21GAj60eEn0yWIn20nejlJtB8zYP5p/VkfLsUctqhI4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 15:35:44 GMT"
+          "Value": "Fri, 03 Jan 2025 22:00:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4950,7 +5071,298 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-FWfg1YpAEcGrAaIONk9t6Rci8LvuPMilWt5cfFf0MAc="
+          "Value": "sha256-21GAj60eEn0yWIn20nejlJtB8zYP5p/VkfLsUctqhI4="
+        }
+      ]
+    },
+    {
+      "Route": "images/mouse.v7w38x215g.jpg",
+      "AssetFile": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\mouse.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4116"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"21GAj60eEn0yWIn20nejlJtB8zYP5p/VkfLsUctqhI4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:00:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v7w38x215g"
+        },
+        {
+          "Name": "label",
+          "Value": "images/mouse.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-21GAj60eEn0yWIn20nejlJtB8zYP5p/VkfLsUctqhI4="
+        }
+      ]
+    },
+    {
+      "Route": "images/nutuk.jpg",
+      "AssetFile": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\nutuk.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9159"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q//GdvBB5wNqyyULwVC/e98/G66s8FNqBgiZkag+8lc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:03:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q//GdvBB5wNqyyULwVC/e98/G66s8FNqBgiZkag+8lc="
+        }
+      ]
+    },
+    {
+      "Route": "images/nutuk.nbyuyxjlh8.jpg",
+      "AssetFile": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\nutuk.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9159"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q//GdvBB5wNqyyULwVC/e98/G66s8FNqBgiZkag+8lc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:03:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nbyuyxjlh8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/nutuk.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q//GdvBB5wNqyyULwVC/e98/G66s8FNqBgiZkag+8lc="
+        }
+      ]
+    },
+    {
+      "Route": "images/speaker.jpg",
+      "AssetFile": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\speaker.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33482"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pdjdb5QreCv+43m2ebmfbaM71XEYbfKQgFRmgJ9Fs6k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:06:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pdjdb5QreCv+43m2ebmfbaM71XEYbfKQgFRmgJ9Fs6k="
+        }
+      ]
+    },
+    {
+      "Route": "images/speaker.zowlzvzu52.jpg",
+      "AssetFile": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\speaker.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33482"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pdjdb5QreCv+43m2ebmfbaM71XEYbfKQgFRmgJ9Fs6k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:06:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zowlzvzu52"
+        },
+        {
+          "Name": "label",
+          "Value": "images/speaker.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pdjdb5QreCv+43m2ebmfbaM71XEYbfKQgFRmgJ9Fs6k="
+        }
+      ]
+    },
+    {
+      "Route": "images/xppen.g85qwrj43x.jpeg",
+      "AssetFile": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\xppen.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AMdLsBNkrbGnidSQBlHOhvwCsk0gpHDwWspA8bCUdd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:05:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g85qwrj43x"
+        },
+        {
+          "Name": "label",
+          "Value": "images/xppen.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AMdLsBNkrbGnidSQBlHOhvwCsk0gpHDwWspA8bCUdd8="
+        }
+      ]
+    },
+    {
+      "Route": "images/xppen.jpeg",
+      "AssetFile": "C:\\MVC\\Store\\StoreApp\\wwwroot\\images\\xppen.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AMdLsBNkrbGnidSQBlHOhvwCsk0gpHDwWspA8bCUdd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:05:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AMdLsBNkrbGnidSQBlHOhvwCsk0gpHDwWspA8bCUdd8="
         }
       ]
     },
